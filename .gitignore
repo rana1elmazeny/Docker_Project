@@ -1,0 +1,4 @@
+.env
+ssl/
+.git
+__pycache__/
